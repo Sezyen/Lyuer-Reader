@@ -1,8 +1,8 @@
-# Lyuer-Reader
 # MienArch Lyuer — 技术说明文档
 
-**EPUB / PDF / TXT 电子书阅读器套件**
+**电子书阅读与管理器**
 版权所有 (c) MienArch | 面包图书馆 | 2026
+
 许可证：**GNU GPL v3.0 or later**
 ---
 
